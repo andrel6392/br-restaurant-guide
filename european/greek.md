@@ -5,5 +5,5 @@ Select a restaurant:
 ## [Omonia Cafe](http://omoniacafe.com/)
 ## [Something Greek](http://www.somethingreekonline.com/)
 ---
-[Back to European](euro.md)
+[Back to European](european.md)
 [Start Over](../home.md)
